@@ -2,3 +2,4 @@
 deploy python
 deploy in the dev
 deployment
+deploy to staging
