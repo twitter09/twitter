@@ -2,4 +2,6 @@
 deploy python
 deploy in the dev
 deployment
-deploy to staging
+deploy to staging env
+echo good job
+tested and accepted
