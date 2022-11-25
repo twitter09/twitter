@@ -4,3 +4,5 @@ make use of variables and dynamic variable
 Author: Mariam Lawal
 this is fe application
 # bug remove 
+print (auto msg)
+update twitter 
